@@ -1,0 +1,11 @@
+.container-fluid{
+    background-color: blue;
+    padding: 0;
+    margin: 0;
+}
+
+.navbar bg-light fixed-top{
+    background-color: blue;
+    padding: 0;
+    margin: 0;
+}
