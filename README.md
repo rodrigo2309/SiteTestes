@@ -1,4 +1,4 @@
 # SiteTestes
-Testes de Front
+Site desenvolvido em Bootstrap para fins de estudo
 
 https://dazzling-paletas-c494c5.netlify.app
